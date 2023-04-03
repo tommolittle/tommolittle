@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my Github page
+University of Cape Town
+
+
+Interests:
+
 <!--
 **tommolittle/tommolittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
