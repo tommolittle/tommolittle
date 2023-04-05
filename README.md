@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 Welcome to my Github page
-This rmd file is currently under construction 
+This rmd file is currently under construction. 
 
+<a href="#" class="button icon search">Search</a>
 [CV_2022_Thomas_Little.docx](https://github.com/tommolittle/tommolittle/files/11160631/CV_2022_Thomas_Little.docx)
 
 <!--
