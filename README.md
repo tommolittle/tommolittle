@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 Welcome to my Github page
-This rmd file is currently under construction. 
-
-
 
 [CV](https://github.com/tommolittle/tommolittle/files/11160631/CV_2022_Thomas_Little.docx)
 
