@@ -4,6 +4,14 @@ Welcome to my Github page
 
 [CV](https://github.com/tommolittle/tommolittle/files/11160631/CV_2022_Thomas_Little.docx)
 
+Completed Past Projects:
+
+
+Past Projects that are ongoing touchups:
+
+Current Projects
+- Statistics honours mini thesis
+- Shiny application simulating savings plans
 <!--
 **tommolittle/tommolittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
